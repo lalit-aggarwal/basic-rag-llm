@@ -1,0 +1,11 @@
+python-dotenv
+langchain_openai
+langchain
+langchain_community
+pypdf
+tiktoken
+pinecone
+scikit-learn
+matplotlib
+seaborn
+trulens-eval
